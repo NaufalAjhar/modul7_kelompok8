@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            DataMahasiswa1302223040 dataMahasiswa = new DataMahasiswa1302223040();
+            dataMahasiswa.ReadJSON();
         }
     }
 }

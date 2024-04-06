@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\1.Programming\\modul7_kelompok_8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07315E2B-AD3F-412B-89C9-CDA7CEA56465}|modul7_kelompok_8\\modul7_kelompok_8.csproj|d:\\1.programming\\modul7_kelompok_8\\modul7_kelompok_8\\.gitgnore||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{07315E2B-AD3F-412B-89C9-CDA7CEA56465}|modul7_kelompok_8\\modul7_kelompok_8.csproj|solutionrelative:modul7_kelompok_8\\.gitgnore||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{07315E2B-AD3F-412B-89C9-CDA7CEA56465}|modul7_kelompok_8\\modul7_kelompok_8.csproj|d:\\1.programming\\modul7_kelompok_8\\modul7_kelompok_8\\datamahasiswa1302223040.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07315E2B-AD3F-412B-89C9-CDA7CEA56465}|modul7_kelompok_8\\modul7_kelompok_8.csproj|solutionrelative:modul7_kelompok_8\\datamahasiswa1302223040.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07315E2B-AD3F-412B-89C9-CDA7CEA56465}|modul7_kelompok_8\\modul7_kelompok_8.csproj|d:\\1.programming\\modul7_kelompok_8\\modul7_kelompok_8\\jurnal7_1_1302223040.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07315E2B-AD3F-412B-89C9-CDA7CEA56465}|modul7_kelompok_8\\modul7_kelompok_8.csproj|solutionrelative:modul7_kelompok_8\\jurnal7_1_1302223040.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07315E2B-AD3F-412B-89C9-CDA7CEA56465}|modul7_kelompok_8\\modul7_kelompok_8.csproj|d:\\1.programming\\modul7_kelompok_8\\modul7_kelompok_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07315E2B-AD3F-412B-89C9-CDA7CEA56465}|modul7_kelompok_8\\modul7_kelompok_8.csproj|solutionrelative:modul7_kelompok_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07315E2B-AD3F-412B-89C9-CDA7CEA56465}|modul7_kelompok_8\\modul7_kelompok_8.csproj|d:\\1.programming\\modul7_kelompok_8\\modul7_kelompok_8\\.gitgnore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07315E2B-AD3F-412B-89C9-CDA7CEA56465}|modul7_kelompok_8\\modul7_kelompok_8.csproj|solutionrelative:modul7_kelompok_8\\.gitgnore||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +34,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitgnore",
-              "DocumentMoniker": "D:\\1.Programming\\modul7_kelompok_8\\modul7_kelompok_8\\.gitgnore",
-              "RelativeDocumentMoniker": "modul7_kelompok_8\\.gitgnore",
-              "ToolTip": "D:\\1.Programming\\modul7_kelompok_8\\modul7_kelompok_8\\.gitgnore",
-              "RelativeToolTip": "modul7_kelompok_8\\.gitgnore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-06T00:49:01.234Z",
+              "DocumentIndex": 1,
+              "Title": "jurnal7_1_1302223040.json",
+              "DocumentMoniker": "D:\\1.Programming\\modul7_kelompok_8\\modul7_kelompok_8\\jurnal7_1_1302223040.json",
+              "RelativeDocumentMoniker": "modul7_kelompok_8\\jurnal7_1_1302223040.json",
+              "ToolTip": "D:\\1.Programming\\modul7_kelompok_8\\modul7_kelompok_8\\jurnal7_1_1302223040.json",
+              "RelativeToolTip": "modul7_kelompok_8\\jurnal7_1_1302223040.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T01:08:59.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DataMahasiswa1302223040.cs",
+              "DocumentMoniker": "D:\\1.Programming\\modul7_kelompok_8\\modul7_kelompok_8\\DataMahasiswa1302223040.cs",
+              "RelativeDocumentMoniker": "modul7_kelompok_8\\DataMahasiswa1302223040.cs",
+              "ToolTip": "D:\\1.Programming\\modul7_kelompok_8\\modul7_kelompok_8\\DataMahasiswa1302223040.cs",
+              "RelativeToolTip": "modul7_kelompok_8\\DataMahasiswa1302223040.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA0wCEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:08:54.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\1.Programming\\modul7_kelompok_8\\modul7_kelompok_8\\Program.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_8\\Program.cs",
               "ToolTip": "D:\\1.Programming\\modul7_kelompok_8\\modul7_kelompok_8\\Program.cs",
               "RelativeToolTip": "modul7_kelompok_8\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T00:47:08.269Z"
+              "WhenOpened": "2024-04-06T00:47:08.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitgnore",
+              "DocumentMoniker": "D:\\1.Programming\\modul7_kelompok_8\\modul7_kelompok_8\\.gitgnore",
+              "RelativeDocumentMoniker": "modul7_kelompok_8\\.gitgnore",
+              "ToolTip": "D:\\1.Programming\\modul7_kelompok_8\\modul7_kelompok_8\\.gitgnore",
+              "RelativeToolTip": "modul7_kelompok_8\\.gitgnore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-06T01:18:05.779Z",
+              "EditorCaption": ""
             }
           ]
         }
