@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            DataMahasiswa1302220098_praktikan dataMahasiswa = new DataMahasiswa1302220098_praktikan();
+            dataMahasiswa.ReadJSON();
         }
     }
 }
