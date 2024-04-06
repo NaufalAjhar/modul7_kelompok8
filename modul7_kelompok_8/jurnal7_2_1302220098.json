@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+       "firstName": "Najwa",
+       "lastName": "Azzahra",
+       "gender": "female",
+       "age": 20,
+       "nim": "1302220024"
+    },
+    {
+       "firstName": "Muhammad",
+       "lastName": "Pradwita",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223015"
+    },
+    {
+      "firstName": "Naufal",
+      "lastName": "hafizh",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302223040"
+    }
+    {
+      "firstName": "Deborah",
+      "lastName": "Manik",
+      "gender": "female",
+      "age": 20,
+      "nim": "1302220129"
+    }
+    {
+      "firstName": "Haikal",
+      "lastName": "Alfaro",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302220098"
+    }
+  ]
+}

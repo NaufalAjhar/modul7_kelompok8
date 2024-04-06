@@ -6,6 +6,9 @@
         {
             DataMahasiswa1302220098_praktikan dataMahasiswa = new DataMahasiswa1302220098_praktikan();
             dataMahasiswa.ReadJSON();
+
+            TeamMembers1302220098 dataMember = new TeamMembers1302220098();
+            dataMember.ReadJSON();
         }
     }
 }
